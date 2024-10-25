@@ -1,7 +1,7 @@
 <h2 align="left"> नमस्ते (Namaste)🙏🏻,! I am Anuj Kumar and I'm a Python Developer, from India</h2>
 ====================================================================
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="110">
 
 ## 🌱 About Me
 - 🌱 Hey there! 👋 I'm a Python Fullstack Developer.
