@@ -57,7 +57,7 @@
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/stackoverflow.svg" alt="stackoverflow" style="vertical-align:top; margin:6px 4px">
   </a>   
   <a href="https://drive.google.com/file/d/1eJy4totxllLU0EYIe2dB0sR4HJHnEg1C/view?usp=drive_link">
-    <img src="https://github.com/anujkp-97/anujkp-97/blob/main/resumeLogo.png" alt="stackoverflow" style="vertical-align:top; margin:6px 4px height: 36px; width:105px">
+    <img src="https://github.com/anujkp-97/anujkp-97/blob/main/logoResume.png" alt="stackoverflow" style="vertical-align:top; margin:6px 4px height: 75px; width:128px">
   </a>   
     
     
