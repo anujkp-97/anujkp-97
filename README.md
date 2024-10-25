@@ -3,6 +3,13 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
+## 🌱 About Me
+- 🌱 Hey there! 👋 I'm a Python Fullstack Developer.
+- 🎯 Passion: **Constantly learning new technologies**
+- 💬 Love discussing **dev tricks, full-stack ideas,** and tech buzz!
+- 📫 Connect with me: **anujpal9770@gmail.com**
+- ⚡ Fun fact: **Love travelling and coding together**
+
 ### 🔨 Languages and Tools:
 
 <div align="left">
@@ -65,22 +72,20 @@
 </p>
 
 
-<b>My GitHub Stats</b>
+### 📊 My GitHub Stats:
 
-<table>
-  <tr>
-    <td>
-      <a href="http://www.github.com/anujkp-97">
-        <img src="https://github-readme-stats.vercel.app/api?username=anujkp-97&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="anujkp-97's GitHub stats" />
-      </a>
-    </td>
-    <td>
-      <a href="http://www.github.com/anujkp-97">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=anujkp-97&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+    <a href="https://github.com/anujkp-97">
+        <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anujkp-97&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anujkp-97&langs_count=12&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
+    </a>
+</p>
+
+<p align="center">
+    <a href="https://github.com/anujkp-97"> 
+        <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=anujkp-97&theme=algolia&hide_border=true"/> 
+    </a>  
+</p>
 
 
 Here are some [🦜 party parrots](https://cultofthepartyparrot.com):
