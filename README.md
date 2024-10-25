@@ -45,16 +45,19 @@
 
 <p align="left">
 
-  <a href="anujpal9770@gmail.com">
+  <a href="mailto:anujpal9770@gmail.com">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px">
   </a>  
 
-  <a href="#">
+  <a href="https://www.linkedin.com/in/contactanujkumar/ ">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
   </a>  
   
-   <a href="#">
+   <a href="https://stackoverflow.com/users/26045024/anuj-kumar">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/stackoverflow.svg" alt="stackoverflow" style="vertical-align:top; margin:6px 4px">
+  </a>   
+  <a href="https://drive.google.com/file/d/1eJy4totxllLU0EYIe2dB0sR4HJHnEg1C/view?usp=drive_link">
+    <img src="https://github.com/anujkp-97/anujkp-97/blob/main/resumeLogo.png" alt="stackoverflow" style="vertical-align:top; margin:6px 4px height: 36px; width:105px">
   </a>   
     
     
