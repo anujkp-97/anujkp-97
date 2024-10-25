@@ -64,6 +64,9 @@
    <a href="https://stackoverflow.com/users/26045024/anuj-kumar">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/stackoverflow.svg" alt="stackoverflow" style="vertical-align:top; margin:6px 4px">
   </a>   
+   <a href="discordapp.com/users/1070514249102798970">
+    <img src="https://github.com/anujkp-97/anujkp-97/blob/main/Discord.png" alt="stackoverflow" style="vertical-align:top; margin:6px 4px height: 70px; width:101px">
+  </a>   
   <a href="https://drive.google.com/file/d/1eJy4totxllLU0EYIe2dB0sR4HJHnEg1C/view?usp=drive_link">
     <img src="https://github.com/anujkp-97/anujkp-97/blob/main/logoResume.png" alt="stackoverflow" style="vertical-align:top; margin:6px 4px height: 75px; width:128px">
   </a>   
