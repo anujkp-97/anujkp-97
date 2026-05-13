@@ -1,4 +1,4 @@
-<h2 align="left"> नमस्ते (Namaste)🙏🏻,! I am Anuj Kumar and I'm a Python Developer, from India</h2>
+<h2 align="left"> नमस्ते (Namaste)🙏🏻,! I am Anuj Kumar and I'm a Data Analyst, from India</h2>
 ====================================================================
 
 
