@@ -3,7 +3,7 @@
 
 
 ## 🌱 About Me
-- 🌱 Hey there! 👋 I'm a Python Fullstack Developer.            <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="130">
+- 🌱 Hey there! 👋 I'm a Data Analyst with 1.5 years of experience.           <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="130">
 - 🎯 Passion: **Constantly learning new technologies**           
 - 💬 Love discussing **dev tricks, full-stack ideas,** and tech buzz!
 - 📫 Connect with me: **anujpal9770@gmail.com**
