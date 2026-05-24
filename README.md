@@ -13,7 +13,11 @@
 
 ### 🔨 Languages and Tools:
 
-
+- Python
+- SQL
+- Advance Excel
+- Power BI
+  
 
 
 <br>
