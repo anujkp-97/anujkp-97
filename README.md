@@ -3,11 +3,16 @@
 
 
 ## 🌱 About Me
-- 🌱 Hey there! 👋 I'm a Data Analyst with 1.5 years of experience.           <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="130">
-- 🎯 Passion: **Constantly learning new technologies**           
-- 💬 Love discussing **dev tricks, full-stack ideas,** and tech buzz!
-- 📫 Connect with me: **anujpal9770@gmail.com**
-- ⚡ Fun fact: **Love travelling and coding together**
+## Hi, I'm Anuj Kumar 👋
+
+Data Analyst with 1.5+ years of experience in SQL, Python, Power BI, and Advanced Excel. Passionate about transforming raw data into actionable insights through data analysis, dashboard development, and business intelligence solutions.
+
+🔹 Skilled in SQL, PostgreSQL, Python (Pandas, NumPy, Matplotlib), Power BI, and Excel
+🔹 Experienced in KPI reporting, data cleaning, EDA, statistical analysis, and dashboard development
+🔹 Worked closely with AI and cross-functional teams to analyze model performance and improve operational efficiency
+
+📊 Turning data into decisions.
+
 
 
 
@@ -43,7 +48,7 @@
    <a href="https://discord.com/users/1070514249102798970">
     <img src="https://github.com/anujkp-97/anujkp-97/blob/main/Discord.png" alt="stackoverflow" style="vertical-align:top; margin:6px 4px height: 70px; width:101px">
   </a>   
-  <a href="https://drive.google.com/file/d/1eJy4totxllLU0EYIe2dB0sR4HJHnEg1C/view?usp=drive_link">
+  <a href="">
     <img src="https://github.com/anujkp-97/anujkp-97/blob/main/logoResume.png" alt="stackoverflow" style="vertical-align:top; margin:6px 4px height: 75px; width:128px">
   </a>   
     
