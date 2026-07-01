@@ -58,12 +58,12 @@ Data Analyst with 1.5+ years of experience in SQL, Python, Power BI, and Advance
 
 ### 📊 My GitHub Stats:
 
-<p align="center">
+<!-- <p align="center">
     <a href="https://github.com/anujkp-97">
         <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anujkp-97&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anujkp-97&langs_count=12&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
     </a>
-</p>
+</p> -->
 
 <p align="center">
     <a href="https://github.com/anujkp-97"> 
