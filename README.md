@@ -2,14 +2,13 @@
 ====================================================================
 
 
-## 🌱 About Me
-## Hi, I'm Anuj Kumar 👋
+## 🌱 About Me 
 
 Data Analyst with 1.5+ years of experience in SQL, Python, Power BI, and Advanced Excel. Passionate about transforming raw data into actionable insights through data analysis, dashboard development, and business intelligence solutions.
 
-🔹 Skilled in SQL, PostgreSQL, Python (Pandas, NumPy, Matplotlib), Power BI, and Excel
-🔹 Experienced in KPI reporting, data cleaning, EDA, statistical analysis, and dashboard development
-🔹 Worked closely with AI and cross-functional teams to analyze model performance and improve operational efficiency
+🔹 Skilled in SQL, PostgreSQL, Python (Pandas, NumPy, Matplotlib), Power BI, and Excel <br>
+🔹 Experienced in KPI reporting, data cleaning, EDA, statistical analysis, and dashboard development <br>
+🔹 Worked closely with AI and cross-functional teams to analyze model performance and improve operational efficiency 
 
 📊 Turning data into decisions.
 
